@@ -214,7 +214,7 @@ curl --request POST \
 This project is under license from Apache. For more details, see the [LICENSE](LICENSE) file.
 
 
-Made with :heart: by <a href="https://github.com/devenes" target="_blank">devenes</a>
+Made with :heart: by <a href="https://github.com/devenes" target="_blank">Brycen</a>
 
 &#xa0;
 
